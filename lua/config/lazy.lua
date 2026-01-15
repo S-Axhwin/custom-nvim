@@ -35,3 +35,4 @@ require("lazy").setup({
 })
 
 
+vim.lsp.enable({"lua_ls"})
